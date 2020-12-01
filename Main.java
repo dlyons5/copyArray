@@ -9,7 +9,7 @@ class Main {
    {
 //roster 2   
   String[] roster2 = new String[10];
-
+//for loop and print statement 
    for (i = 0; i < 10; i++){
       System.out.println(roster2[i]);    
   
