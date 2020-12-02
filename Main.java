@@ -2,7 +2,7 @@ class Main {
 
   public static void main(String[] args) {
     String[] roster1 = new String[10];
-    String[] roster2 = {"Bob","Ben","Jeff","Noah","Elija","Dylan","Gabe","Seth","Matt","Dominic"};
+    String[] roster2 = {"Roberto","Ben","Aiden","Dev","Brian","Marcos","Gabe","Seth","Matt","Dominic"};
     
     for(int index = 0; index < roster1.length; index++)
     {
